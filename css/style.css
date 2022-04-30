@@ -1,0 +1,11 @@
+h1 {
+    font-family: 'Water Brush', cursive;
+    font-size: 4em;
+    font-weight: bold;
+    padding-top: .2em;
+    color: rgb(0, 119, 255);
+}
+
+.nav-font {
+    font-family: 'Tapestry', cursive;
+}
